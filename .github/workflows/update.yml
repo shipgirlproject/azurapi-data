@@ -10,31 +10,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v5
         with:
-          submodules: 'true'
-      - name: "Update Submodules"
+          submodules: false
+          fetch-depth: 0
+      - name: Update Submodules
         run: |
-          git submodule update --remote --force
+          git submodule init
+          git submodule update --remote --force --depth 1
           git status
-      - name: Use Node.js 14.x
-        uses: actions/setup-node@v2
+      - name: Use Node LTS
+        uses: actions/setup-node@v6
         with:
-          node-version: '14'
+          node-version: lts/*
+          cache: npm
       - name: Installing dependencies
         run: npm ci
       - name: Running translater
         run: npm start
-      - name: Create commits
-        run: |
-          git config user.name 'Kumo'
-          git config user.email 'octo-kumo@users.noreply.github.com'
-          git commit -am "Auto Update"
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
+      - name: Get date
+        run: echo "TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> "$GITHUB_ENV"
+      - name: Commit & Push changes
+        uses: actions-js/push@master
         with:
-          title: '[Auto] Data Test'
-          branch: 'update'
-          body: ''
-          labels: data update, automated
-
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          message: "cron: data update ${{ env.TIMESTAMP }}"
