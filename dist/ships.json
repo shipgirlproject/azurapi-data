@@ -82494,6 +82494,112 @@
     },
     "stars": 6
   },
+  "970208": {
+    "id": 970208,
+    "code": 30053,
+    "name": {
+      "en": "Boise META",
+      "code": "Boise META",
+      "cn": "博伊西·META",
+      "jp": "ボイシ(META)"
+    },
+    "property_hexagon": [3, 0, 0, 3, 3, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [1], [6], [10, 14], [10, 14]],
+    "nationality": 97,
+    "data": {
+      "9702081": {
+        "id": 9702081,
+        "tags": ["BoiseMETA"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 684,
+          "fp": 28,
+          "trp": 0,
+          "aa": 70,
+          "av": 0,
+          "rld": 69,
+          "acc": 43,
+          "eva": 22,
+          "spd": 33,
+          "luk": 70,
+          "asw": 34
+        }
+      },
+      "9702082": {
+        "id": 9702082,
+        "tags": ["BoiseMETA"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 851,
+          "fp": 35,
+          "trp": 0,
+          "aa": 87,
+          "av": 0,
+          "rld": 69,
+          "acc": 43,
+          "eva": 22,
+          "spd": 33,
+          "luk": 70,
+          "asw": 43
+        }
+      },
+      "9702083": {
+        "id": 9702083,
+        "tags": ["BoiseMETA"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1185,
+          "fp": 49,
+          "trp": 0,
+          "aa": 121,
+          "av": 0,
+          "rld": 69,
+          "acc": 43,
+          "eva": 22,
+          "spd": 33,
+          "luk": 70,
+          "asw": 60
+        }
+      },
+      "9702084": {
+        "id": 9702084,
+        "tags": ["BoiseMETA"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1686,
+          "fp": 70,
+          "trp": 0,
+          "aa": 172,
+          "av": 0,
+          "rld": 69,
+          "acc": 43,
+          "eva": 22,
+          "spd": 33,
+          "luk": 70,
+          "asw": 85
+        }
+      }
+    },
+    "stars": 5
+  },
   "970301": {
     "id": 970301,
     "code": 30013,
@@ -86060,7 +86166,8 @@
       "code": "Hornet META",
       "cn": "大黄蜂·META",
       "jp": "ホーネット(META)",
-      "kr": "호넷·META"
+      "kr": "호넷·META",
+      "tw": "大黃蜂·META"
     },
     "property_hexagon": [0, 0, 5, 2, 3, 3],
     "type": 7,
@@ -95562,6 +95669,637 @@
           "eva": 36,
           "spd": 32,
           "luk": 65,
+          "asw": 94
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1150001": {
+    "id": 1150001,
+    "code": 10151,
+    "name": {
+      "en": "Tohka Yatogami",
+      "code": "Tohka Yatogami",
+      "cn": "夜刀神十香",
+      "jp": "夜刀神十香"
+    },
+    "property_hexagon": [3, 0, 0, 3, 3, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [1], [6], [10], [10]],
+    "nationality": 115,
+    "data": {
+      "11500011": {
+        "id": 11500011,
+        "tags": ["DAL", "Yatogami Tōka"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 796,
+          "fp": 51,
+          "trp": 0,
+          "aa": 40,
+          "av": 0,
+          "rld": 73,
+          "acc": 46,
+          "eva": 18,
+          "spd": 28,
+          "luk": 84,
+          "asw": 0
+        }
+      },
+      "11500012": {
+        "id": 11500012,
+        "tags": ["DAL", "Yatogami Tōka"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 990,
+          "fp": 64,
+          "trp": 0,
+          "aa": 50,
+          "av": 0,
+          "rld": 73,
+          "acc": 46,
+          "eva": 18,
+          "spd": 28,
+          "luk": 84,
+          "asw": 0
+        }
+      },
+      "11500013": {
+        "id": 11500013,
+        "tags": ["DAL", "Yatogami Tōka"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1379,
+          "fp": 89,
+          "trp": 0,
+          "aa": 70,
+          "av": 0,
+          "rld": 73,
+          "acc": 46,
+          "eva": 18,
+          "spd": 28,
+          "luk": 84,
+          "asw": 0
+        }
+      },
+      "11500014": {
+        "id": 11500014,
+        "tags": ["DAL", "Yatogami Tōka"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1962,
+          "fp": 127,
+          "trp": 0,
+          "aa": 99,
+          "av": 0,
+          "rld": 73,
+          "acc": 46,
+          "eva": 18,
+          "spd": 28,
+          "luk": 84,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1150002": {
+    "id": 1150002,
+    "code": 10152,
+    "name": {
+      "en": "Origami Tobiichi",
+      "code": "Origami Tobiichi",
+      "cn": "鸢一折纸",
+      "jp": "鳶一折紙"
+    },
+    "property_hexagon": [0, 0, 5, 3, 3, 4],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 115,
+    "data": {
+      "11500021": {
+        "id": 11500021,
+        "tags": ["DAL"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 70,
+        "stats": {
+          "hp": 1169,
+          "fp": 0,
+          "trp": 0,
+          "aa": 58,
+          "av": 80,
+          "rld": 53,
+          "acc": 32,
+          "eva": 11,
+          "spd": 28,
+          "luk": 75,
+          "asw": 0
+        }
+      },
+      "11500022": {
+        "id": 11500022,
+        "tags": ["DAL"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 80,
+        "stats": {
+          "hp": 1454,
+          "fp": 0,
+          "trp": 0,
+          "aa": 72,
+          "av": 100,
+          "rld": 53,
+          "acc": 32,
+          "eva": 11,
+          "spd": 28,
+          "luk": 75,
+          "asw": 0
+        }
+      },
+      "11500023": {
+        "id": 11500023,
+        "tags": ["DAL"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 2024,
+          "fp": 0,
+          "trp": 0,
+          "aa": 101,
+          "av": 139,
+          "rld": 53,
+          "acc": 32,
+          "eva": 11,
+          "spd": 28,
+          "luk": 75,
+          "asw": 0
+        }
+      },
+      "11500024": {
+        "id": 11500024,
+        "tags": ["DAL"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2879,
+          "fp": 0,
+          "trp": 0,
+          "aa": 144,
+          "av": 199,
+          "rld": 53,
+          "acc": 32,
+          "eva": 11,
+          "spd": 28,
+          "luk": 75,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1150003": {
+    "id": 1150003,
+    "code": 10153,
+    "name": {
+      "en": "Kotori Itsuka",
+      "code": "Kotori Itsuka",
+      "cn": "五河琴里",
+      "jp": "五河琴里"
+    },
+    "property_hexagon": [5, 0, 0, 1, 2, 4],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
+    "nationality": 115,
+    "data": {
+      "11500031": {
+        "id": 11500031,
+        "tags": ["DAL"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 9,
+        "max_level": 70,
+        "stats": {
+          "hp": 1284,
+          "fp": 86,
+          "trp": 0,
+          "aa": 34,
+          "av": 0,
+          "rld": 54,
+          "acc": 22,
+          "eva": 6,
+          "spd": 25,
+          "luk": 72,
+          "asw": 0
+        }
+      },
+      "11500032": {
+        "id": 11500032,
+        "tags": ["DAL"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 80,
+        "stats": {
+          "hp": 1597,
+          "fp": 107,
+          "trp": 0,
+          "aa": 42,
+          "av": 0,
+          "rld": 54,
+          "acc": 22,
+          "eva": 6,
+          "spd": 25,
+          "luk": 72,
+          "asw": 0
+        }
+      },
+      "11500033": {
+        "id": 11500033,
+        "tags": ["DAL"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 90,
+        "stats": {
+          "hp": 2223,
+          "fp": 150,
+          "trp": 0,
+          "aa": 59,
+          "av": 0,
+          "rld": 54,
+          "acc": 22,
+          "eva": 6,
+          "spd": 25,
+          "luk": 72,
+          "asw": 0
+        }
+      },
+      "11500034": {
+        "id": 11500034,
+        "tags": ["DAL"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3163,
+          "fp": 213,
+          "trp": 0,
+          "aa": 84,
+          "av": 0,
+          "rld": 54,
+          "acc": 22,
+          "eva": 6,
+          "spd": 25,
+          "luk": 72,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1150004": {
+    "id": 1150004,
+    "code": 10154,
+    "name": {"en": "Yoshino", "code": "Yoshino", "cn": "四糸乃", "jp": "四糸乃"},
+    "property_hexagon": [0, 0, 4, 1, 4, 4],
+    "type": 6,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10, 15], [10, 15]],
+    "nationality": 115,
+    "data": {
+      "11500041": {
+        "id": 11500041,
+        "tags": ["DAL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 992,
+          "fp": 0,
+          "trp": 0,
+          "aa": 54,
+          "av": 74,
+          "rld": 71,
+          "acc": 32,
+          "eva": 18,
+          "spd": 30,
+          "luk": 73,
+          "asw": 20
+        }
+      },
+      "11500042": {
+        "id": 11500042,
+        "tags": ["DAL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1234,
+          "fp": 0,
+          "trp": 0,
+          "aa": 67,
+          "av": 92,
+          "rld": 71,
+          "acc": 32,
+          "eva": 18,
+          "spd": 30,
+          "luk": 73,
+          "asw": 25
+        }
+      },
+      "11500043": {
+        "id": 11500043,
+        "tags": ["DAL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1718,
+          "fp": 0,
+          "trp": 0,
+          "aa": 94,
+          "av": 129,
+          "rld": 71,
+          "acc": 32,
+          "eva": 18,
+          "spd": 30,
+          "luk": 73,
+          "asw": 35
+        }
+      },
+      "11500044": {
+        "id": 11500044,
+        "tags": ["DAL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2444,
+          "fp": 0,
+          "trp": 0,
+          "aa": 134,
+          "av": 184,
+          "rld": 71,
+          "acc": 32,
+          "eva": 18,
+          "spd": 30,
+          "luk": 73,
+          "asw": 50
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1150005": {
+    "id": 1150005,
+    "code": 10155,
+    "name": {
+      "en": "Kurumi Tokisaki",
+      "code": "Tokisaki Kurumi",
+      "cn": "时崎狂三",
+      "jp": "時崎狂三"
+    },
+    "property_hexagon": [4, 0, 0, 3, 3, 1],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [1], [6], [10, 14], [10, 14]],
+    "nationality": 115,
+    "data": {
+      "11500051": {
+        "id": 11500051,
+        "tags": ["DAL", "Kurumi Tokisaki"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 519,
+          "fp": 30,
+          "trp": 0,
+          "aa": 75,
+          "av": 0,
+          "rld": 73,
+          "acc": 55,
+          "eva": 31,
+          "spd": 35.5,
+          "luk": 87,
+          "asw": 38
+        }
+      },
+      "11500052": {
+        "id": 11500052,
+        "tags": ["DAL", "Kurumi Tokisaki"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 646,
+          "fp": 37,
+          "trp": 0,
+          "aa": 93,
+          "av": 0,
+          "rld": 73,
+          "acc": 55,
+          "eva": 31,
+          "spd": 35.5,
+          "luk": 87,
+          "asw": 47
+        }
+      },
+      "11500053": {
+        "id": 11500053,
+        "tags": ["DAL", "Kurumi Tokisaki"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 899,
+          "fp": 52,
+          "trp": 0,
+          "aa": 130,
+          "av": 0,
+          "rld": 73,
+          "acc": 55,
+          "eva": 31,
+          "spd": 35.5,
+          "luk": 87,
+          "asw": 66
+        }
+      },
+      "11500054": {
+        "id": 11500054,
+        "tags": ["DAL", "Kurumi Tokisaki"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1279,
+          "fp": 75,
+          "trp": 0,
+          "aa": 186,
+          "av": 0,
+          "rld": 73,
+          "acc": 55,
+          "eva": 31,
+          "spd": 35.5,
+          "luk": 87,
+          "asw": 95
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1150006": {
+    "id": 1150006,
+    "code": 10156,
+    "name": {
+      "en": "Kaguya Yamai・Yuzuru Yamai",
+      "code": "Kaguya Yamai·Yuzuru Yamai",
+      "cn": "八舞耶俱矢·八舞夕弦",
+      "jp": "八舞耶倶矢・八舞夕弦"
+    },
+    "property_hexagon": [4, 3, 0, 3, 3, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 115,
+    "data": {
+      "11500061": {
+        "id": 11500061,
+        "tags": ["DAL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 744,
+          "fp": 35,
+          "trp": 64,
+          "aa": 65,
+          "av": 0,
+          "rld": 80,
+          "acc": 57,
+          "eva": 37,
+          "spd": 35,
+          "luk": 80,
+          "asw": 38
+        }
+      },
+      "11500062": {
+        "id": 11500062,
+        "tags": ["DAL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 926,
+          "fp": 44,
+          "trp": 80,
+          "aa": 81,
+          "av": 0,
+          "rld": 80,
+          "acc": 57,
+          "eva": 37,
+          "spd": 35,
+          "luk": 80,
+          "asw": 47
+        }
+      },
+      "11500063": {
+        "id": 11500063,
+        "tags": ["DAL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1289,
+          "fp": 61,
+          "trp": 111,
+          "aa": 113,
+          "av": 0,
+          "rld": 80,
+          "acc": 57,
+          "eva": 37,
+          "spd": 35,
+          "luk": 80,
+          "asw": 66
+        }
+      },
+      "11500064": {
+        "id": 11500064,
+        "tags": ["DAL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1833,
+          "fp": 88,
+          "trp": 159,
+          "aa": 161,
+          "av": 0,
+          "rld": 80,
+          "acc": 57,
+          "eva": 37,
+          "spd": 35,
+          "luk": 80,
           "asw": 94
         }
       }
