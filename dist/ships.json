@@ -82501,7 +82501,8 @@
       "en": "Boise META",
       "code": "Boise META",
       "cn": "博伊西·META",
-      "jp": "ボイシ(META)"
+      "jp": "ボイシ(META)",
+      "kr": "보이시·META"
     },
     "property_hexagon": [3, 0, 0, 3, 3, 2],
     "type": 2,
@@ -83952,7 +83953,8 @@
       "code": "Dunkerque META",
       "cn": "敦刻尔克·META",
       "jp": "ダンケルク(META)",
-      "kr": "됭케르크·META"
+      "kr": "됭케르크·META",
+      "tw": "敦克爾克·META"
     },
     "property_hexagon": [4, 0, 0, 2, 1, 3],
     "type": 4,
@@ -95682,7 +95684,9 @@
       "en": "Tohka Yatogami",
       "code": "Tohka Yatogami",
       "cn": "夜刀神十香",
-      "jp": "夜刀神十香"
+      "jp": "夜刀神十香",
+      "kr": "야토가미 토카",
+      "tw": "夜刀神十香"
     },
     "property_hexagon": [3, 0, 0, 3, 3, 4],
     "type": 3,
@@ -95788,7 +95792,9 @@
       "en": "Origami Tobiichi",
       "code": "Origami Tobiichi",
       "cn": "鸢一折纸",
-      "jp": "鳶一折紙"
+      "jp": "鳶一折紙",
+      "kr": "토비이치 오리가미",
+      "tw": "鳶一折紙"
     },
     "property_hexagon": [0, 0, 5, 3, 3, 4],
     "type": 7,
@@ -95894,7 +95900,9 @@
       "en": "Kotori Itsuka",
       "code": "Kotori Itsuka",
       "cn": "五河琴里",
-      "jp": "五河琴里"
+      "jp": "五河琴里",
+      "kr": "이츠카 코토리",
+      "tw": "五河琴里"
     },
     "property_hexagon": [5, 0, 0, 1, 2, 4],
     "type": 5,
@@ -95996,7 +96004,14 @@
   "1150004": {
     "id": 1150004,
     "code": 10154,
-    "name": {"en": "Yoshino", "code": "Yoshino", "cn": "四糸乃", "jp": "四糸乃"},
+    "name": {
+      "en": "Yoshino",
+      "code": "Yoshino",
+      "cn": "四糸乃",
+      "jp": "四糸乃",
+      "kr": "요시노",
+      "tw": "四糸乃"
+    },
     "property_hexagon": [0, 0, 4, 1, 4, 4],
     "type": 6,
     "armor": 2,
@@ -96101,7 +96116,9 @@
       "en": "Kurumi Tokisaki",
       "code": "Tokisaki Kurumi",
       "cn": "时崎狂三",
-      "jp": "時崎狂三"
+      "jp": "時崎狂三",
+      "kr": "토키사키 쿠루미",
+      "tw": "時崎狂三"
     },
     "property_hexagon": [4, 0, 0, 3, 3, 1],
     "type": 2,
@@ -96207,7 +96224,9 @@
       "en": "Kaguya Yamai・Yuzuru Yamai",
       "code": "Kaguya Yamai·Yuzuru Yamai",
       "cn": "八舞耶俱矢·八舞夕弦",
-      "jp": "八舞耶倶矢・八舞夕弦"
+      "jp": "八舞耶倶矢・八舞夕弦",
+      "kr": "야마이 카구야 · 야마이 유즈루",
+      "tw": "八舞耶俱矢·八舞夕弦"
     },
     "property_hexagon": [4, 3, 0, 3, 3, 2],
     "type": 2,
