@@ -14024,7 +14024,7 @@
     "data": {
       "107051": {
         "id": 107051,
-        "tags": ["Yorktown-Class"],
+        "tags": ["Yorktown-Class", "Yorktown"],
         "type": 7,
         "rarity": 4,
         "stars": 2,
@@ -14046,7 +14046,7 @@
       },
       "107052": {
         "id": 107052,
-        "tags": ["Yorktown-Class"],
+        "tags": ["Yorktown-Class", "Yorktown"],
         "type": 7,
         "rarity": 4,
         "stars": 3,
@@ -14068,7 +14068,7 @@
       },
       "107053": {
         "id": 107053,
-        "tags": ["Yorktown-Class"],
+        "tags": ["Yorktown-Class", "Yorktown"],
         "type": 7,
         "rarity": 4,
         "stars": 4,
@@ -14090,7 +14090,7 @@
       },
       "107054": {
         "id": 107054,
-        "tags": ["Yorktown-Class"],
+        "tags": ["Yorktown-Class", "Yorktown"],
         "type": 7,
         "rarity": 4,
         "stars": 5,
@@ -80068,7 +80068,8 @@
       "code": "MOT Queen Annes Revenge",
       "cn": "安妮女王复仇号",
       "jp": "クイーン・アンズ・リベンジ",
-      "kr": "퀸 앤즈 리벤지"
+      "kr": "퀸 앤즈 리벤지",
+      "tw": "安妮女王復仇號"
     },
     "property_hexagon": [4, 0, 0, 2, 0, 3],
     "type": 24,
@@ -80175,7 +80176,8 @@
       "code": "MOT Lyme",
       "cn": "莱姆号",
       "jp": "ライム",
-      "kr": "라임"
+      "kr": "라임",
+      "tw": "萊姆號"
     },
     "property_hexagon": [4, 0, 0, 2, 0, 4],
     "type": 23,
@@ -80282,7 +80284,8 @@
       "code": "MOT Pearl",
       "cn": "珍珠号",
       "jp": "パール",
-      "kr": "펄"
+      "kr": "펄",
+      "tw": "珍珠號"
     },
     "property_hexagon": [4, 0, 0, 2, 0, 3],
     "type": 24,
@@ -80389,7 +80392,8 @@
       "code": "MOT Royal James",
       "cn": "皇家詹姆斯号",
       "jp": "ロイヤル・ジェームズ",
-      "kr": "로열 제임스"
+      "kr": "로열 제임스",
+      "tw": "皇家詹姆斯號"
     },
     "property_hexagon": [2, 0, 0, 2, 0, 3],
     "type": 23,
@@ -80492,7 +80496,8 @@
       "code": "MOT Adventure",
       "cn": "冒险号",
       "jp": "アドベンチャー",
-      "kr": "어드벤처"
+      "kr": "어드벤처",
+      "tw": "冒險號"
     },
     "property_hexagon": [2, 0, 0, 2, 0, 3],
     "type": 22,
@@ -86370,6 +86375,112 @@
           "eva": 9,
           "spd": 30,
           "luk": 32,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "970708": {
+    "id": 970708,
+    "code": 30054,
+    "name": {
+      "en": "Yorktown META",
+      "code": "Yorktown META",
+      "cn": "约克城·META",
+      "jp": "ヨークタウン(META)"
+    },
+    "property_hexagon": [0, 0, 5, 2, 3, 3],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 97,
+    "data": {
+      "9707081": {
+        "id": 9707081,
+        "tags": ["YorktownMETA", "TOC", "Yorktown"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1114,
+          "fp": 0,
+          "trp": 0,
+          "aa": 67,
+          "av": 82,
+          "rld": 48,
+          "acc": 25,
+          "eva": 9,
+          "spd": 30,
+          "luk": 39,
+          "asw": 0
+        }
+      },
+      "9707082": {
+        "id": 9707082,
+        "tags": ["YorktownMETA", "TOC", "Yorktown"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1386,
+          "fp": 0,
+          "trp": 0,
+          "aa": 83,
+          "av": 102,
+          "rld": 48,
+          "acc": 25,
+          "eva": 9,
+          "spd": 30,
+          "luk": 39,
+          "asw": 0
+        }
+      },
+      "9707083": {
+        "id": 9707083,
+        "tags": ["YorktownMETA", "TOC", "Yorktown"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1929,
+          "fp": 0,
+          "trp": 0,
+          "aa": 116,
+          "av": 143,
+          "rld": 48,
+          "acc": 25,
+          "eva": 9,
+          "spd": 30,
+          "luk": 39,
+          "asw": 0
+        }
+      },
+      "9707084": {
+        "id": 9707084,
+        "tags": ["YorktownMETA", "TOC", "Yorktown"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 2744,
+          "fp": 0,
+          "trp": 0,
+          "aa": 165,
+          "av": 204,
+          "rld": 48,
+          "acc": 25,
+          "eva": 9,
+          "spd": 30,
+          "luk": 39,
           "asw": 0
         }
       }
