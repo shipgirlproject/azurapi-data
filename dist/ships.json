@@ -1116,6 +1116,134 @@
     },
     "stars": 5
   },
+  "10110": {
+    "id": 10110,
+    "code": 12,
+    "name": {
+      "en": "William D. Porter",
+      "code": "USS William D. Porter",
+      "cn": "威廉·D·波特",
+      "jp": "ウィリアム・D・ポーター"
+    },
+    "property_hexagon": [2, 2, 0, 3, 2, 2],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 1,
+    "data": {
+      "101101": {
+        "id": 101101,
+        "tags": ["Fletcher-Class", "WDP"],
+        "type": 1,
+        "rarity": 6,
+        "stars": 3,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 370,
+          "fp": 24,
+          "trp": 85,
+          "aa": 55,
+          "av": 0,
+          "rld": 88,
+          "acc": 71,
+          "eva": 59,
+          "spd": 42,
+          "luk": 6,
+          "asw": 71
+        }
+      },
+      "101102": {
+        "id": 101102,
+        "tags": ["Fletcher-Class", "WDP"],
+        "type": 1,
+        "rarity": 6,
+        "stars": 4,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 460,
+          "fp": 30,
+          "trp": 106,
+          "aa": 69,
+          "av": 0,
+          "rld": 88,
+          "acc": 71,
+          "eva": 59,
+          "spd": 42,
+          "luk": 6,
+          "asw": 89
+        }
+      },
+      "101103": {
+        "id": 101103,
+        "tags": ["Fletcher-Class", "WDP"],
+        "type": 1,
+        "rarity": 6,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 641,
+          "fp": 42,
+          "trp": 148,
+          "aa": 96,
+          "av": 0,
+          "rld": 88,
+          "acc": 71,
+          "eva": 59,
+          "spd": 42,
+          "luk": 6,
+          "asw": 124
+        }
+      },
+      "101104": {
+        "id": 101104,
+        "tags": ["Fletcher-Class", "WDP"],
+        "type": 1,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 911,
+          "fp": 60,
+          "trp": 211,
+          "aa": 136,
+          "av": 0,
+          "rld": 88,
+          "acc": 71,
+          "eva": 59,
+          "spd": 42,
+          "luk": 6,
+          "asw": 176
+        }
+      },
+      "900813": {
+        "id": 900813,
+        "tags": ["Fletcher-Class", "WDP"],
+        "type": 1,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 911,
+          "fp": 60,
+          "trp": 211,
+          "aa": 136,
+          "av": 0,
+          "rld": 88,
+          "acc": 71,
+          "eva": 59,
+          "spd": 42,
+          "luk": 6,
+          "asw": 176
+        }
+      }
+    },
+    "stars": 6
+  },
   "10111": {
     "id": 10111,
     "code": 13,
@@ -4991,6 +5119,112 @@
     },
     "stars": 5
   },
+  "10155": {
+    "id": 10155,
+    "code": 718,
+    "name": {
+      "en": "Clarence K. Bronson",
+      "code": "USS Clarence K. Bronson",
+      "cn": "克拉伦斯·K·布朗森",
+      "jp": "クラレンス・K・ブロンソン"
+    },
+    "property_hexagon": [2, 2, 0, 3, 2, 2],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 1,
+    "data": {
+      "101551": {
+        "id": 101551,
+        "tags": ["Fletcher-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 341,
+          "fp": 17,
+          "trp": 70,
+          "aa": 48,
+          "av": 0,
+          "rld": 81,
+          "acc": 75,
+          "eva": 59,
+          "spd": 42,
+          "luk": 80,
+          "asw": 60
+        }
+      },
+      "101552": {
+        "id": 101552,
+        "tags": ["Fletcher-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 424,
+          "fp": 21,
+          "trp": 87,
+          "aa": 60,
+          "av": 0,
+          "rld": 81,
+          "acc": 75,
+          "eva": 59,
+          "spd": 42,
+          "luk": 80,
+          "asw": 75
+        }
+      },
+      "101553": {
+        "id": 101553,
+        "tags": ["Fletcher-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 590,
+          "fp": 30,
+          "trp": 122,
+          "aa": 83,
+          "av": 0,
+          "rld": 81,
+          "acc": 75,
+          "eva": 59,
+          "spd": 42,
+          "luk": 80,
+          "asw": 105
+        }
+      },
+      "101554": {
+        "id": 101554,
+        "tags": ["Fletcher-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 840,
+          "fp": 43,
+          "trp": 174,
+          "aa": 118,
+          "av": 0,
+          "rld": 81,
+          "acc": 75,
+          "eva": 59,
+          "spd": 42,
+          "luk": 80,
+          "asw": 149
+        }
+      }
+    },
+    "stars": 5
+  },
   "10201": {
     "id": 10201,
     "code": 29,
@@ -8837,6 +9071,112 @@
       }
     },
     "stars": 6
+  },
+  "10235": {
+    "id": 10235,
+    "code": 719,
+    "name": {
+      "en": "Pasadena",
+      "code": "USS Pasadena",
+      "cn": "帕萨迪纳",
+      "jp": "パサデナ"
+    },
+    "property_hexagon": [3, 0, 0, 3, 3, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [1], [6], [10, 14], [10, 14]],
+    "nationality": 1,
+    "data": {
+      "102351": {
+        "id": 102351,
+        "tags": ["Cleveland-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 751,
+          "fp": 30,
+          "trp": 0,
+          "aa": 61,
+          "av": 0,
+          "rld": 70,
+          "acc": 56,
+          "eva": 30,
+          "spd": 32.5,
+          "luk": 72,
+          "asw": 24
+        }
+      },
+      "102352": {
+        "id": 102352,
+        "tags": ["Cleveland-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 934,
+          "fp": 37,
+          "trp": 0,
+          "aa": 76,
+          "av": 0,
+          "rld": 70,
+          "acc": 56,
+          "eva": 30,
+          "spd": 32.5,
+          "luk": 72,
+          "asw": 30
+        }
+      },
+      "102353": {
+        "id": 102353,
+        "tags": ["Cleveland-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 1300,
+          "fp": 52,
+          "trp": 0,
+          "aa": 106,
+          "av": 0,
+          "rld": 70,
+          "acc": 56,
+          "eva": 30,
+          "spd": 32.5,
+          "luk": 72,
+          "asw": 42
+        }
+      },
+      "102354": {
+        "id": 102354,
+        "tags": ["Cleveland-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1849,
+          "fp": 74,
+          "trp": 0,
+          "aa": 151,
+          "av": 0,
+          "rld": 70,
+          "acc": 56,
+          "eva": 30,
+          "spd": 32.5,
+          "luk": 72,
+          "asw": 60
+        }
+      }
+    },
+    "stars": 5
   },
   "10301": {
     "id": 10301,
@@ -15249,6 +15589,135 @@
     },
     "stars": 6
   },
+  "10716": {
+    "id": 10716,
+    "code": 715,
+    "name": {
+      "en": "Lexington II",
+      "code": "USS Lexington II",
+      "cn": "列克星敦II",
+      "jp": "レキシントンⅡ"
+    },
+    "property_hexagon": [0, 0, 5, 3, 4, 4],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 1,
+    "data": {
+      "107161": {
+        "id": 107161,
+        "tags": [
+          "Essex-Class",
+          "Essex-Class-No-Yorktown",
+          "Lexington II",
+          "Lexington"
+        ],
+        "type": 7,
+        "rarity": 6,
+        "stars": 3,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 1257,
+          "fp": 0,
+          "trp": 0,
+          "aa": 71,
+          "av": 88,
+          "rld": 49,
+          "acc": 32,
+          "eva": 13,
+          "spd": 33,
+          "luk": 91,
+          "asw": 0
+        }
+      },
+      "107162": {
+        "id": 107162,
+        "tags": [
+          "Essex-Class",
+          "Essex-Class-No-Yorktown",
+          "Lexington II",
+          "Lexington"
+        ],
+        "type": 7,
+        "rarity": 6,
+        "stars": 4,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 1564,
+          "fp": 0,
+          "trp": 0,
+          "aa": 89,
+          "av": 110,
+          "rld": 49,
+          "acc": 32,
+          "eva": 13,
+          "spd": 33,
+          "luk": 91,
+          "asw": 0
+        },
+        "slots": [[7], [9], [7, 8, 9], [10], [10]]
+      },
+      "107163": {
+        "id": 107163,
+        "tags": [
+          "Essex-Class",
+          "Essex-Class-No-Yorktown",
+          "Lexington II",
+          "Lexington"
+        ],
+        "type": 7,
+        "rarity": 6,
+        "stars": 5,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 2177,
+          "fp": 0,
+          "trp": 0,
+          "aa": 124,
+          "av": 154,
+          "rld": 49,
+          "acc": 32,
+          "eva": 13,
+          "spd": 33,
+          "luk": 91,
+          "asw": 0
+        },
+        "slots": [[7], [9], [7, 8, 9], [10], [10]]
+      },
+      "107164": {
+        "id": 107164,
+        "tags": [
+          "Essex-Class",
+          "Essex-Class-No-Yorktown",
+          "Lexington II",
+          "Lexington"
+        ],
+        "type": 7,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3096,
+          "fp": 0,
+          "trp": 0,
+          "aa": 176,
+          "av": 219,
+          "rld": 49,
+          "acc": 32,
+          "eva": 13,
+          "spd": 33,
+          "luk": 91,
+          "asw": 0
+        },
+        "slots": [[7], [9], [7, 8, 9], [10], [10]]
+      }
+    },
+    "stars": 6
+  },
   "10717": {
     "id": 10717,
     "code": 380,
@@ -15623,6 +16092,112 @@
       }
     },
     "stars": 5
+  },
+  "10725": {
+    "id": 10725,
+    "code": 716,
+    "name": {
+      "en": "Cowpens",
+      "code": "USS Cowpens",
+      "cn": "科本斯",
+      "jp": "カウペンス"
+    },
+    "property_hexagon": [0, 0, 4, 2, 3, 3],
+    "type": 6,
+    "armor": 2,
+    "slots": [[7], [8], [6], [10, 15], [10, 15]],
+    "nationality": 1,
+    "data": {
+      "107251": {
+        "id": 107251,
+        "tags": ["Independence-Class", "Eagle Union-CVL", "Cowpens"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 876,
+          "fp": 0,
+          "trp": 0,
+          "aa": 55,
+          "av": 70,
+          "rld": 80,
+          "acc": 28,
+          "eva": 21,
+          "spd": 31.6,
+          "luk": 70,
+          "asw": 23
+        }
+      },
+      "107252": {
+        "id": 107252,
+        "tags": ["Independence-Class", "Eagle Union-CVL", "Cowpens"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1090,
+          "fp": 0,
+          "trp": 0,
+          "aa": 69,
+          "av": 87,
+          "rld": 80,
+          "acc": 28,
+          "eva": 21,
+          "spd": 31.6,
+          "luk": 70,
+          "asw": 29
+        }
+      },
+      "107253": {
+        "id": 107253,
+        "tags": ["Independence-Class", "Eagle Union-CVL", "Cowpens"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1517,
+          "fp": 0,
+          "trp": 0,
+          "aa": 96,
+          "av": 122,
+          "rld": 80,
+          "acc": 28,
+          "eva": 21,
+          "spd": 31.6,
+          "luk": 70,
+          "asw": 40
+        }
+      },
+      "107254": {
+        "id": 107254,
+        "tags": ["Independence-Class", "Eagle Union-CVL", "Cowpens"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2158,
+          "fp": 0,
+          "trp": 0,
+          "aa": 136,
+          "av": 174,
+          "rld": 80,
+          "acc": 28,
+          "eva": 21,
+          "spd": 31.6,
+          "luk": 70,
+          "asw": 58
+        }
+      }
+    },
+    "stars": 6
   },
   "10727": {
     "id": 10727,
@@ -82605,6 +83180,112 @@
       }
     },
     "stars": 5
+  },
+  "970209": {
+    "id": 970209,
+    "code": 30055,
+    "name": {
+      "en": "Cleveland META",
+      "code": "Cleveland META",
+      "cn": "克利夫兰·META",
+      "jp": "クリーブランド(META)"
+    },
+    "property_hexagon": [3, 0, 0, 3, 4, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [1], [6], [10, 14], [10, 14]],
+    "nationality": 97,
+    "data": {
+      "9702091": {
+        "id": 9702091,
+        "tags": ["ClevelandMETA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 779,
+          "fp": 33,
+          "trp": 0,
+          "aa": 79,
+          "av": 0,
+          "rld": 72,
+          "acc": 46,
+          "eva": 22,
+          "spd": 33,
+          "luk": 71,
+          "asw": 36
+        }
+      },
+      "9702092": {
+        "id": 9702092,
+        "tags": ["ClevelandMETA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 969,
+          "fp": 41,
+          "trp": 0,
+          "aa": 98,
+          "av": 0,
+          "rld": 72,
+          "acc": 46,
+          "eva": 22,
+          "spd": 33,
+          "luk": 71,
+          "asw": 45
+        }
+      },
+      "9702093": {
+        "id": 9702093,
+        "tags": ["ClevelandMETA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1349,
+          "fp": 58,
+          "trp": 0,
+          "aa": 137,
+          "av": 0,
+          "rld": 72,
+          "acc": 46,
+          "eva": 22,
+          "spd": 33,
+          "luk": 71,
+          "asw": 62
+        }
+      },
+      "9702094": {
+        "id": 9702094,
+        "tags": ["ClevelandMETA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1919,
+          "fp": 83,
+          "trp": 0,
+          "aa": 195,
+          "av": 0,
+          "rld": 72,
+          "acc": 46,
+          "eva": 22,
+          "spd": 33,
+          "luk": 71,
+          "asw": 89
+        }
+      }
+    },
+    "stars": 6
   },
   "970301": {
     "id": 970301,
