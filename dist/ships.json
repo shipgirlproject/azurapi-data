@@ -1123,7 +1123,9 @@
       "en": "William D. Porter",
       "code": "USS William D. Porter",
       "cn": "威廉·D·波特",
-      "jp": "ウィリアム・D・ポーター"
+      "jp": "ウィリアム・D・ポーター",
+      "kr": "윌리엄 D 포터",
+      "tw": "威廉·D·波特"
     },
     "property_hexagon": [2, 2, 0, 3, 2, 2],
     "type": 1,
@@ -5126,7 +5128,9 @@
       "en": "Clarence K. Bronson",
       "code": "USS Clarence K. Bronson",
       "cn": "克拉伦斯·K·布朗森",
-      "jp": "クラレンス・K・ブロンソン"
+      "jp": "クラレンス・K・ブロンソン",
+      "kr": "클래런스 K 브론슨",
+      "tw": "克拉倫斯·K·布朗森"
     },
     "property_hexagon": [2, 2, 0, 3, 2, 2],
     "type": 1,
@@ -9079,7 +9083,9 @@
       "en": "Pasadena",
       "code": "USS Pasadena",
       "cn": "帕萨迪纳",
-      "jp": "パサデナ"
+      "jp": "パサデナ",
+      "kr": "패서디나",
+      "tw": "帕沙第納"
     },
     "property_hexagon": [3, 0, 0, 3, 3, 3],
     "type": 2,
@@ -15596,7 +15602,9 @@
       "en": "Lexington II",
       "code": "USS Lexington II",
       "cn": "列克星敦II",
-      "jp": "レキシントンⅡ"
+      "jp": "レキシントンⅡ",
+      "kr": "렉싱턴Ⅱ",
+      "tw": "列星頓II"
     },
     "property_hexagon": [0, 0, 5, 3, 4, 4],
     "type": 7,
@@ -16100,7 +16108,9 @@
       "en": "Cowpens",
       "code": "USS Cowpens",
       "cn": "科本斯",
-      "jp": "カウペンス"
+      "jp": "カウペンス",
+      "kr": "카우펜스",
+      "tw": "考彭斯"
     },
     "property_hexagon": [0, 0, 4, 2, 3, 3],
     "type": 6,
@@ -82171,7 +82181,8 @@
       "code": "Dewey META",
       "cn": "杜威·META",
       "jp": "デューイ(META)",
-      "kr": "듀이·META"
+      "kr": "듀이·META",
+      "tw": "杜威·META"
     },
     "property_hexagon": [2, 3, 0, 3, 2, 2],
     "type": 1,
@@ -83188,7 +83199,9 @@
       "en": "Cleveland META",
       "code": "Cleveland META",
       "cn": "克利夫兰·META",
-      "jp": "クリーブランド(META)"
+      "jp": "クリーブランド(META)",
+      "kr": "클리블랜드·META",
+      "tw": "克里夫蘭·META"
     },
     "property_hexagon": [3, 0, 0, 3, 4, 3],
     "type": 2,
