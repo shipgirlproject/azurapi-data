@@ -39734,6 +39734,107 @@
     },
     "stars": 5
   },
+  "30194": {
+    "id": 30194,
+    "code": 723,
+    "name": {"en": "Fujinami", "code": "IJN Fujinami", "cn": "藤波", "jp": "藤波"},
+    "property_hexagon": [1, 4, 0, 4, 1, 2],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 3,
+    "data": {
+      "301941": {
+        "id": 301941,
+        "tags": ["Yugumo-Class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 361,
+          "fp": 13,
+          "trp": 108,
+          "aa": 29,
+          "av": 0,
+          "rld": 82,
+          "acc": 73,
+          "eva": 71,
+          "spd": 42,
+          "luk": 46,
+          "asw": 44
+        }
+      },
+      "301942": {
+        "id": 301942,
+        "tags": ["Yugumo-Class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 449,
+          "fp": 16,
+          "trp": 135,
+          "aa": 36,
+          "av": 0,
+          "rld": 82,
+          "acc": 73,
+          "eva": 71,
+          "spd": 42,
+          "luk": 46,
+          "asw": 55
+        }
+      },
+      "301943": {
+        "id": 301943,
+        "tags": ["Yugumo-Class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 625,
+          "fp": 23,
+          "trp": 189,
+          "aa": 51,
+          "av": 0,
+          "rld": 82,
+          "acc": 73,
+          "eva": 71,
+          "spd": 42,
+          "luk": 46,
+          "asw": 77
+        }
+      },
+      "301944": {
+        "id": 301944,
+        "tags": ["Yugumo-Class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 889,
+          "fp": 32,
+          "trp": 269,
+          "aa": 72,
+          "av": 0,
+          "rld": 82,
+          "acc": 73,
+          "eva": 71,
+          "spd": 42,
+          "luk": 46,
+          "asw": 110
+        }
+      }
+    },
+    "stars": 6
+  },
   "30201": {
     "id": 30201,
     "code": 179,
