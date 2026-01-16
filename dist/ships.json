@@ -4901,6 +4901,29 @@
           "luk": 95,
           "asw": 137
         }
+      },
+      "900814": {
+        "id": 900814,
+        "tags": ["Allen M. Sumner-class", "Laffey II", "Laffey", "II"],
+        "type": 1,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1027,
+          "fp": 69,
+          "trp": 188,
+          "aa": 124,
+          "av": 0,
+          "rld": 90,
+          "acc": 78,
+          "eva": 72,
+          "spd": 40.8,
+          "luk": 95,
+          "asw": 137
+        },
+        "name": {"jp": "拉菲II"}
       }
     },
     "stars": 6
@@ -39737,7 +39760,13 @@
   "30194": {
     "id": 30194,
     "code": 723,
-    "name": {"en": "Fujinami", "code": "IJN Fujinami", "cn": "藤波", "jp": "藤波"},
+    "name": {
+      "en": "Fujinami",
+      "code": "IJN Fujinami",
+      "cn": "藤波",
+      "jp": "藤波",
+      "tw": "藤波"
+    },
     "property_hexagon": [1, 4, 0, 4, 1, 2],
     "type": 1,
     "armor": 1,
@@ -68950,6 +68979,30 @@
           "kr": "马可波罗（后排 原皮）",
           "tw": "馬可波羅（後排原皮）"
         }
+      },
+      "900536": {
+        "id": 900536,
+        "tags": ["Plan-Class", "MarcoPolo"],
+        "type": 18,
+        "rarity": 18,
+        "stars": 6,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1410,
+          "fp": 83,
+          "trp": 0,
+          "aa": 48,
+          "av": 0,
+          "rld": 57,
+          "acc": 20,
+          "eva": 9,
+          "spd": 32,
+          "luk": 0,
+          "asw": 0
+        },
+        "slots": [[6, 21], [6, 21], [6, 21], [10], [10]],
+        "name": {"en": "马可波罗（圣座 前排）", "cn": "马可波罗（圣座 前排）", "jp": "马可波罗（圣座 前排）"}
       }
     },
     "stars": 6
