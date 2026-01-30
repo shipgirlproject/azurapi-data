@@ -4923,7 +4923,7 @@
           "luk": 95,
           "asw": 137
         },
-        "name": {"jp": "拉菲II"}
+        "name": {"jp": "拉菲II", "kr": "拉菲II"}
       }
     },
     "stars": 6
@@ -66462,7 +66462,8 @@
       "en": "Ugolino Vivaldi",
       "code": "RN Ugolino Vivaldi",
       "cn": "乌戈里诺·维瓦尔迪",
-      "jp": "ウゴリーノ・ヴィヴァルディ"
+      "jp": "ウゴリーノ・ヴィヴァルディ",
+      "tw": "烏戈里諾·維瓦爾迪"
     },
     "property_hexagon": [4, 1, 0, 4, 2, 1],
     "type": 1,
@@ -66914,7 +66915,8 @@
       "en": "Alberto di Giussano",
       "code": "RN Alberto di Giussano",
       "cn": "阿尔贝托·迪·朱塞诺",
-      "jp": "アルベルト・ディ・ジュッサーノ"
+      "jp": "アルベルト・ディ・ジュッサーノ",
+      "tw": "阿爾貝托·迪·朱薩諾"
     },
     "property_hexagon": [2, 3, 0, 3, 3, 2],
     "type": 2,
@@ -68471,7 +68473,8 @@
       "en": "Francesco Caracciolo",
       "code": "RN Francesco Caracciolo",
       "cn": "弗朗西斯科·卡拉乔洛",
-      "jp": "フランチェスコ・カラッチョロ"
+      "jp": "フランチェスコ・カラッチョロ",
+      "tw": "弗朗切斯科·卡拉喬洛"
     },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
@@ -69321,7 +69324,12 @@
           "asw": 0
         },
         "slots": [[6, 21], [6, 21], [6, 21], [10], [10]],
-        "name": {"en": "马可波罗（圣座 前排）", "cn": "马可波罗（圣座 前排）", "jp": "马可波罗（圣座 前排）"}
+        "name": {
+          "en": "马可波罗（圣座 前排）",
+          "cn": "马可波罗（圣座 前排）",
+          "jp": "马可波罗（圣座 前排）",
+          "kr": "马可波罗（圣座 前排）"
+        }
       }
     },
     "stars": 6
@@ -82749,6 +82757,112 @@
           "spd": 44,
           "luk": 72,
           "asw": 117
+        }
+      }
+    },
+    "stars": 5
+  },
+  "970111": {
+    "id": 970111,
+    "code": 30056,
+    "name": {
+      "en": "Carabiniere META",
+      "code": "Carabiniere META",
+      "cn": "龙骑兵·META",
+      "jp": "カラビニエーレ(META)"
+    },
+    "property_hexagon": [4, 1, 0, 4, 2, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 97,
+    "data": {
+      "9701111": {
+        "id": 9701111,
+        "tags": ["CarabiniereMETA"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 320,
+          "fp": 31,
+          "trp": 55,
+          "aa": 31,
+          "av": 0,
+          "rld": 74,
+          "acc": 59,
+          "eva": 54,
+          "spd": 46,
+          "luk": 65,
+          "asw": 50
+        }
+      },
+      "9701112": {
+        "id": 9701112,
+        "tags": ["CarabiniereMETA"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 398,
+          "fp": 39,
+          "trp": 69,
+          "aa": 39,
+          "av": 0,
+          "rld": 74,
+          "acc": 59,
+          "eva": 54,
+          "spd": 46,
+          "luk": 65,
+          "asw": 62
+        }
+      },
+      "9701113": {
+        "id": 9701113,
+        "tags": ["CarabiniereMETA"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 554,
+          "fp": 54,
+          "trp": 96,
+          "aa": 54,
+          "av": 0,
+          "rld": 74,
+          "acc": 59,
+          "eva": 54,
+          "spd": 46,
+          "luk": 65,
+          "asw": 87
+        }
+      },
+      "9701114": {
+        "id": 9701114,
+        "tags": ["CarabiniereMETA"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 789,
+          "fp": 77,
+          "trp": 137,
+          "aa": 77,
+          "av": 0,
+          "rld": 74,
+          "acc": 59,
+          "eva": 54,
+          "spd": 46,
+          "luk": 65,
+          "asw": 125
         }
       }
     },
