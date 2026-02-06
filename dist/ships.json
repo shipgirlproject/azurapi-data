@@ -66463,6 +66463,7 @@
       "code": "RN Ugolino Vivaldi",
       "cn": "乌戈里诺·维瓦尔迪",
       "jp": "ウゴリーノ・ヴィヴァルディ",
+      "kr": "우골리노 비발디",
       "tw": "烏戈里諾·維瓦爾迪"
     },
     "property_hexagon": [4, 1, 0, 4, 2, 1],
@@ -66916,6 +66917,7 @@
       "code": "RN Alberto di Giussano",
       "cn": "阿尔贝托·迪·朱塞诺",
       "jp": "アルベルト・ディ・ジュッサーノ",
+      "kr": "알베르토 디 주사노",
       "tw": "阿爾貝托·迪·朱薩諾"
     },
     "property_hexagon": [2, 3, 0, 3, 3, 2],
@@ -68474,6 +68476,7 @@
       "code": "RN Francesco Caracciolo",
       "cn": "弗朗西斯科·卡拉乔洛",
       "jp": "フランチェスコ・カラッチョロ",
+      "kr": "프란체스코 카라치올로",
       "tw": "弗朗切斯科·卡拉喬洛"
     },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
@@ -82769,7 +82772,8 @@
       "en": "Carabiniere META",
       "code": "Carabiniere META",
       "cn": "龙骑兵·META",
-      "jp": "カラビニエーレ(META)"
+      "jp": "カラビニエーレ(META)",
+      "kr": "카라비니에레·META"
     },
     "property_hexagon": [4, 1, 0, 4, 2, 1],
     "type": 1,
