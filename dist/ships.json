@@ -63945,7 +63945,7 @@
     "data": {
       "502041": {
         "id": 502041,
-        "tags": ["Chaoho-Class"],
+        "tags": ["Chaoho-Class", "YingSwei"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -63967,7 +63967,7 @@
       },
       "502042": {
         "id": 502042,
-        "tags": ["Chaoho-Class"],
+        "tags": ["Chaoho-Class", "YingSwei"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -63989,7 +63989,7 @@
       },
       "502043": {
         "id": 502043,
-        "tags": ["Chaoho-Class"],
+        "tags": ["Chaoho-Class", "YingSwei"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -64011,7 +64011,7 @@
       },
       "502044": {
         "id": 502044,
-        "tags": ["Chaoho-Class"],
+        "tags": ["Chaoho-Class", "YingSwei"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -64029,6 +64029,34 @@
           "spd": 20,
           "luk": 20,
           "asw": 43
+        }
+      },
+      "502984": {
+        "id": 502984,
+        "tags": ["Chaoho-Class", "YingSwei"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 1049,
+          "fp": 32,
+          "trp": 107,
+          "aa": 60,
+          "av": 0,
+          "rld": 51,
+          "acc": 53,
+          "eva": 24,
+          "spd": 20,
+          "luk": 20,
+          "asw": 43
+        },
+        "name": {
+          "en": "Ying Swei (Retrofit)",
+          "cn": "应瑞.改",
+          "jp": "応瑞改",
+          "tw": "應瑞.改"
         }
       }
     },
@@ -64053,7 +64081,7 @@
     "data": {
       "502051": {
         "id": 502051,
-        "tags": ["Chaoho-Class"],
+        "tags": ["Chaoho-Class", "ChaoHo"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -64075,7 +64103,7 @@
       },
       "502052": {
         "id": 502052,
-        "tags": ["Chaoho-Class"],
+        "tags": ["Chaoho-Class", "ChaoHo"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -64097,7 +64125,7 @@
       },
       "502053": {
         "id": 502053,
-        "tags": ["Chaoho-Class"],
+        "tags": ["Chaoho-Class", "ChaoHo"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -64119,7 +64147,7 @@
       },
       "502054": {
         "id": 502054,
-        "tags": ["Chaoho-Class"],
+        "tags": ["Chaoho-Class", "ChaoHo"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -64137,6 +64165,34 @@
           "spd": 20,
           "luk": 20,
           "asw": 43
+        }
+      },
+      "502994": {
+        "id": 502994,
+        "tags": ["Chaoho-Class", "ChaoHo"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 1089,
+          "fp": 32,
+          "trp": 107,
+          "aa": 59,
+          "av": 0,
+          "rld": 51,
+          "acc": 53,
+          "eva": 24,
+          "spd": 20,
+          "luk": 20,
+          "asw": 43
+        },
+        "name": {
+          "en": "Chao Ho (Retrofit)",
+          "cn": "肇和.改",
+          "jp": "肇和改",
+          "tw": "肇和.改"
         }
       }
     },
@@ -64596,6 +64652,113 @@
     },
     "stars": 5
   },
+  "50212": {
+    "id": 50212,
+    "code": 726,
+    "name": {
+      "en": "Hai Chou",
+      "code": "Hai Chou",
+      "cn": "海筹",
+      "jp": "海籌",
+      "tw": "海籌"
+    },
+    "property_hexagon": [2, 2, 0, 2, 1, 2],
+    "type": 2,
+    "armor": 2,
+    "slots": [[2], [1], [5], [10, 14], [10, 14]],
+    "nationality": 5,
+    "data": {
+      "502121": {
+        "id": 502121,
+        "tags": ["Hai Yung-Class", "Hai Chou"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 513,
+          "fp": 17,
+          "trp": 47,
+          "aa": 29,
+          "av": 0,
+          "rld": 57,
+          "acc": 54,
+          "eva": 25,
+          "spd": 20.75,
+          "luk": 45,
+          "asw": 18
+        }
+      },
+      "502122": {
+        "id": 502122,
+        "tags": ["Hai Yung-Class", "Hai Chou"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 638,
+          "fp": 21,
+          "trp": 59,
+          "aa": 36,
+          "av": 0,
+          "rld": 57,
+          "acc": 54,
+          "eva": 25,
+          "spd": 20.75,
+          "luk": 45,
+          "asw": 23
+        }
+      },
+      "502123": {
+        "id": 502123,
+        "tags": ["Hai Yung-Class", "Hai Chou"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 888,
+          "fp": 29,
+          "trp": 82,
+          "aa": 50,
+          "av": 0,
+          "rld": 57,
+          "acc": 54,
+          "eva": 25,
+          "spd": 20.75,
+          "luk": 45,
+          "asw": 32
+        }
+      },
+      "502124": {
+        "id": 502124,
+        "tags": ["Hai Yung-Class", "Hai Chou"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1263,
+          "fp": 42,
+          "trp": 116,
+          "aa": 72,
+          "av": 0,
+          "rld": 57,
+          "acc": 54,
+          "eva": 25,
+          "spd": 20.75,
+          "luk": 45,
+          "asw": 45
+        }
+      }
+    },
+    "stars": 5
+  },
   "50301": {
     "id": 50301,
     "code": 674,
@@ -64697,6 +64860,113 @@
           "acc": 55,
           "eva": 22,
           "spd": 28,
+          "luk": 54,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "50302": {
+    "id": 50302,
+    "code": 725,
+    "name": {
+      "en": "Chang Wu",
+      "code": "Chang Wu",
+      "cn": "彰武",
+      "jp": "彰武",
+      "tw": "彰武"
+    },
+    "property_hexagon": [3, 2, 0, 2, 1, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [2], [5], [10], [10]],
+    "nationality": 5,
+    "data": {
+      "503021": {
+        "id": 503021,
+        "tags": ["Chang Wu"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 835,
+          "fp": 35,
+          "trp": 56,
+          "aa": 47,
+          "av": 0,
+          "rld": 68,
+          "acc": 55,
+          "eva": 23,
+          "spd": 22.4,
+          "luk": 54,
+          "asw": 0
+        }
+      },
+      "503022": {
+        "id": 503022,
+        "tags": ["Chang Wu"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1039,
+          "fp": 44,
+          "trp": 70,
+          "aa": 59,
+          "av": 0,
+          "rld": 68,
+          "acc": 55,
+          "eva": 23,
+          "spd": 22.4,
+          "luk": 54,
+          "asw": 0
+        }
+      },
+      "503023": {
+        "id": 503023,
+        "tags": ["Chang Wu"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1446,
+          "fp": 61,
+          "trp": 97,
+          "aa": 82,
+          "av": 0,
+          "rld": 68,
+          "acc": 55,
+          "eva": 23,
+          "spd": 22.4,
+          "luk": 54,
+          "asw": 0
+        }
+      },
+      "503024": {
+        "id": 503024,
+        "tags": ["Chang Wu"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2057,
+          "fp": 87,
+          "trp": 139,
+          "aa": 116,
+          "av": 0,
+          "rld": 68,
+          "acc": 55,
+          "eva": 23,
+          "spd": 22.4,
           "luk": 54,
           "asw": 0
         }
@@ -82451,7 +82721,8 @@
       "code": "Kawakaze META",
       "cn": "江风·META",
       "jp": "江風(META)",
-      "kr": "카와카제·META"
+      "kr": "카와카제·META",
+      "tw": "江風·META"
     },
     "property_hexagon": [2, 5, 0, 4, 1, 1],
     "type": 1,
