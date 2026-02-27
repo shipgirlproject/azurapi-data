@@ -64056,6 +64056,7 @@
           "en": "Ying Swei (Retrofit)",
           "cn": "应瑞.改",
           "jp": "応瑞改",
+          "kr": "잉 루이·改",
           "tw": "應瑞.改"
         }
       }
@@ -64192,6 +64193,7 @@
           "en": "Chao Ho (Retrofit)",
           "cn": "肇和.改",
           "jp": "肇和改",
+          "kr": "차오 호·改",
           "tw": "肇和.改"
         }
       }
@@ -64660,6 +64662,7 @@
       "code": "Hai Chou",
       "cn": "海筹",
       "jp": "海籌",
+      "kr": "하이처우",
       "tw": "海籌"
     },
     "property_hexagon": [2, 2, 0, 2, 1, 2],
@@ -64875,6 +64878,7 @@
       "code": "Chang Wu",
       "cn": "彰武",
       "jp": "彰武",
+      "kr": "장우",
       "tw": "彰武"
     },
     "property_hexagon": [3, 2, 0, 2, 1, 4],
@@ -69601,7 +69605,8 @@
           "en": "马可波罗（圣座 前排）",
           "cn": "马可波罗（圣座 前排）",
           "jp": "马可波罗（圣座 前排）",
-          "kr": "马可波罗（圣座 前排）"
+          "kr": "马可波罗（圣座 前排）",
+          "tw": "马可波罗（圣座 前排）"
         }
       }
     },
@@ -71033,6 +71038,107 @@
     },
     "stars": 5
   },
+  "70113": {
+    "id": 70113,
+    "code": 728,
+    "name": {"en": "Ozornoy", "code": "SN Ozornoy", "cn": "顽皮", "jp": "オゾルノイ"},
+    "property_hexagon": [4, 1, 0, 3, 2, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 7,
+    "data": {
+      "701131": {
+        "id": 701131,
+        "tags": ["Ognevoy-class", "Northern Union-DD", "Ozornoy"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 379,
+          "fp": 27,
+          "trp": 46,
+          "aa": 35,
+          "av": 0,
+          "rld": 75,
+          "acc": 69,
+          "eva": 64,
+          "spd": 43.8,
+          "luk": 80,
+          "asw": 52
+        }
+      },
+      "701132": {
+        "id": 701132,
+        "tags": ["Ognevoy-class", "Northern Union-DD", "Ozornoy"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 471,
+          "fp": 34,
+          "trp": 57,
+          "aa": 44,
+          "av": 0,
+          "rld": 75,
+          "acc": 69,
+          "eva": 64,
+          "spd": 43.8,
+          "luk": 80,
+          "asw": 65
+        }
+      },
+      "701133": {
+        "id": 701133,
+        "tags": ["Ognevoy-class", "Northern Union-DD", "Ozornoy"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 656,
+          "fp": 47,
+          "trp": 80,
+          "aa": 61,
+          "av": 0,
+          "rld": 75,
+          "acc": 69,
+          "eva": 64,
+          "spd": 43.8,
+          "luk": 80,
+          "asw": 90
+        }
+      },
+      "701134": {
+        "id": 701134,
+        "tags": ["Ognevoy-class", "Northern Union-DD", "Ozornoy"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 933,
+          "fp": 67,
+          "trp": 114,
+          "aa": 86,
+          "av": 0,
+          "rld": 75,
+          "acc": 69,
+          "eva": 64,
+          "spd": 43.8,
+          "luk": 80,
+          "asw": 129
+        }
+      }
+    },
+    "stars": 6
+  },
   "70201": {
     "id": 70201,
     "code": 262,
@@ -71994,6 +72100,218 @@
     },
     "stars": 5
   },
+  "70209": {
+    "id": 70209,
+    "code": 729,
+    "name": {
+      "en": "Krasny Kavkaz",
+      "code": "SN Krasny Kavkaz",
+      "cn": "红色山脉",
+      "jp": "クラースヌィイ・カフカース"
+    },
+    "property_hexagon": [1, 1, 0, 3, 2, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 7,
+    "data": {
+      "702091": {
+        "id": 702091,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 654,
+          "fp": 29,
+          "trp": 56,
+          "aa": 32,
+          "av": 0,
+          "rld": 51,
+          "acc": 49,
+          "eva": 28,
+          "spd": 29.5,
+          "luk": 85,
+          "asw": 13
+        }
+      },
+      "702092": {
+        "id": 702092,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 814,
+          "fp": 36,
+          "trp": 70,
+          "aa": 40,
+          "av": 0,
+          "rld": 51,
+          "acc": 49,
+          "eva": 28,
+          "spd": 29.5,
+          "luk": 85,
+          "asw": 16
+        }
+      },
+      "702093": {
+        "id": 702093,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 1133,
+          "fp": 50,
+          "trp": 97,
+          "aa": 56,
+          "av": 0,
+          "rld": 51,
+          "acc": 49,
+          "eva": 28,
+          "spd": 29.5,
+          "luk": 85,
+          "asw": 23
+        }
+      },
+      "702094": {
+        "id": 702094,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1611,
+          "fp": 72,
+          "trp": 139,
+          "aa": 80,
+          "av": 0,
+          "rld": 51,
+          "acc": 49,
+          "eva": 28,
+          "spd": 29.5,
+          "luk": 85,
+          "asw": 33
+        }
+      }
+    },
+    "stars": 5
+  },
+  "70210": {
+    "id": 70210,
+    "code": 730,
+    "name": {
+      "en": "Bogatyr",
+      "code": "SN Bogatyr",
+      "cn": "博加特里",
+      "jp": "ボガトィーリ"
+    },
+    "property_hexagon": [1, 1, 0, 2, 2, 3],
+    "type": 2,
+    "armor": 2,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 7,
+    "data": {
+      "702101": {
+        "id": 702101,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 625,
+          "fp": 23,
+          "trp": 40,
+          "aa": 27,
+          "av": 0,
+          "rld": 68,
+          "acc": 57,
+          "eva": 27,
+          "spd": 23,
+          "luk": 80,
+          "asw": 13
+        }
+      },
+      "702102": {
+        "id": 702102,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 777,
+          "fp": 29,
+          "trp": 50,
+          "aa": 34,
+          "av": 0,
+          "rld": 68,
+          "acc": 57,
+          "eva": 27,
+          "spd": 23,
+          "luk": 80,
+          "asw": 16
+        }
+      },
+      "702103": {
+        "id": 702103,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 1082,
+          "fp": 40,
+          "trp": 70,
+          "aa": 47,
+          "av": 0,
+          "rld": 68,
+          "acc": 57,
+          "eva": 27,
+          "spd": 23,
+          "luk": 80,
+          "asw": 23
+        }
+      },
+      "702104": {
+        "id": 702104,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1540,
+          "fp": 57,
+          "trp": 99,
+          "aa": 67,
+          "av": 0,
+          "rld": 68,
+          "acc": 57,
+          "eva": 27,
+          "spd": 23,
+          "luk": 80,
+          "asw": 33
+        }
+      }
+    },
+    "stars": 5
+  },
   "70301": {
     "id": 70301,
     "code": 496,
@@ -72230,6 +72548,107 @@
         },
         "slots": [[2, 3], [5], [6], [10, 14], [10, 14]],
         "armor": 2
+      }
+    },
+    "stars": 6
+  },
+  "70303": {
+    "id": 70303,
+    "code": 727,
+    "name": {"en": "Moskva", "code": "SN Moskva", "cn": "莫斯科", "jp": "モスクワ"},
+    "property_hexagon": [4, 0, 0, 3, 2, 5],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [1], [6], [10], [10]],
+    "nationality": 7,
+    "data": {
+      "703031": {
+        "id": 703031,
+        "tags": ["Northern Union-CA", "MOSKVA"],
+        "type": 3,
+        "rarity": 6,
+        "stars": 3,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1307,
+          "fp": 54,
+          "trp": 0,
+          "aa": 75,
+          "av": 0,
+          "rld": 76,
+          "acc": 53,
+          "eva": 16,
+          "spd": 27.6,
+          "luk": 66,
+          "asw": 0
+        }
+      },
+      "703032": {
+        "id": 703032,
+        "tags": ["Northern Union-CA", "MOSKVA"],
+        "type": 3,
+        "rarity": 6,
+        "stars": 4,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1626,
+          "fp": 67,
+          "trp": 0,
+          "aa": 93,
+          "av": 0,
+          "rld": 76,
+          "acc": 53,
+          "eva": 16,
+          "spd": 27.6,
+          "luk": 66,
+          "asw": 0
+        }
+      },
+      "703033": {
+        "id": 703033,
+        "tags": ["Northern Union-CA", "MOSKVA"],
+        "type": 3,
+        "rarity": 6,
+        "stars": 5,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 2264,
+          "fp": 94,
+          "trp": 0,
+          "aa": 130,
+          "av": 0,
+          "rld": 76,
+          "acc": 53,
+          "eva": 16,
+          "spd": 27.6,
+          "luk": 66,
+          "asw": 0
+        }
+      },
+      "703034": {
+        "id": 703034,
+        "tags": ["Northern Union-CA", "MOSKVA"],
+        "type": 3,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 3220,
+          "fp": 134,
+          "trp": 0,
+          "aa": 185,
+          "av": 0,
+          "rld": 76,
+          "acc": 53,
+          "eva": 16,
+          "spd": 27.6,
+          "luk": 66,
+          "asw": 0
+        }
       }
     },
     "stars": 6
@@ -82829,7 +83248,8 @@
       "code": "Yuudachi META",
       "cn": "夕立·META",
       "jp": "夕立(META)",
-      "kr": "유다치·META"
+      "kr": "유다치·META",
+      "tw": "夕立·META"
     },
     "property_hexagon": [2, 5, 0, 4, 1, 1],
     "type": 1,
@@ -83955,7 +84375,8 @@
       "code": "Boise META",
       "cn": "博伊西·META",
       "jp": "ボイシ(META)",
-      "kr": "보이시·META"
+      "kr": "보이시·META",
+      "tw": "波夕·META"
     },
     "property_hexagon": [3, 0, 0, 3, 3, 2],
     "type": 2,
@@ -86655,6 +87076,108 @@
     },
     "stars": 5
   },
+  "970510": {
+    "id": 970510,
+    "code": 30057,
+    "name": {
+      "en": "Gangut META",
+      "code": "Gangut META",
+      "cn": "甘古特·META",
+      "jp": "ガングート(META)"
+    },
+    "property_hexagon": [4, 0, 0, 1, 1, 3],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
+    "nationality": 97,
+    "data": {
+      "9705101": {
+        "id": 9705101,
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1123,
+          "fp": 71,
+          "trp": 0,
+          "aa": 34,
+          "av": 0,
+          "rld": 57,
+          "acc": 15,
+          "eva": 4,
+          "spd": 24,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "9705102": {
+        "id": 9705102,
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1397,
+          "fp": 89,
+          "trp": 0,
+          "aa": 42,
+          "av": 0,
+          "rld": 57,
+          "acc": 15,
+          "eva": 4,
+          "spd": 24,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "9705103": {
+        "id": 9705103,
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1945,
+          "fp": 124,
+          "trp": 0,
+          "aa": 59,
+          "av": 0,
+          "rld": 57,
+          "acc": 15,
+          "eva": 4,
+          "spd": 24,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "9705104": {
+        "id": 9705104,
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 2766,
+          "fp": 177,
+          "trp": 0,
+          "aa": 84,
+          "av": 0,
+          "rld": 57,
+          "acc": 15,
+          "eva": 4,
+          "spd": 24,
+          "luk": 85,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "970601": {
     "id": 970601,
     "code": 30006,
@@ -87945,7 +88468,8 @@
       "code": "Yorktown META",
       "cn": "约克城·META",
       "jp": "ヨークタウン(META)",
-      "kr": "요크타운·META"
+      "kr": "요크타운·META",
+      "tw": "約克鎮·META"
     },
     "property_hexagon": [0, 0, 5, 2, 3, 3],
     "type": 7,
