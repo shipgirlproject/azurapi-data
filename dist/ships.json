@@ -71041,7 +71041,13 @@
   "70113": {
     "id": 70113,
     "code": 728,
-    "name": {"en": "Ozornoy", "code": "SN Ozornoy", "cn": "顽皮", "jp": "オゾルノイ"},
+    "name": {
+      "en": "Ozornoy",
+      "code": "SN Ozornoy",
+      "cn": "顽皮",
+      "jp": "オゾルノイ",
+      "tw": "頑皮"
+    },
     "property_hexagon": [4, 1, 0, 3, 2, 1],
     "type": 1,
     "armor": 1,
@@ -72107,7 +72113,8 @@
       "en": "Krasny Kavkaz",
       "code": "SN Krasny Kavkaz",
       "cn": "红色山脉",
-      "jp": "クラースヌィイ・カフカース"
+      "jp": "クラースヌィイ・カフカース",
+      "tw": "紅色高加索"
     },
     "property_hexagon": [1, 1, 0, 3, 2, 3],
     "type": 2,
@@ -72213,7 +72220,8 @@
       "en": "Bogatyr",
       "code": "SN Bogatyr",
       "cn": "博加特里",
-      "jp": "ボガトィーリ"
+      "jp": "ボガトィーリ",
+      "tw": "博加特里"
     },
     "property_hexagon": [1, 1, 0, 2, 2, 3],
     "type": 2,
@@ -72555,7 +72563,13 @@
   "70303": {
     "id": 70303,
     "code": 727,
-    "name": {"en": "Moskva", "code": "SN Moskva", "cn": "莫斯科", "jp": "モスクワ"},
+    "name": {
+      "en": "Moskva",
+      "code": "SN Moskva",
+      "cn": "莫斯科",
+      "jp": "モスクワ",
+      "tw": "莫斯科"
+    },
     "property_hexagon": [4, 0, 0, 3, 2, 5],
     "type": 3,
     "armor": 2,
@@ -87083,7 +87097,8 @@
       "en": "Gangut META",
       "code": "Gangut META",
       "cn": "甘古特·META",
-      "jp": "ガングート(META)"
+      "jp": "ガングート(META)",
+      "tw": "甘古特META"
     },
     "property_hexagon": [4, 0, 0, 1, 1, 3],
     "type": 5,
