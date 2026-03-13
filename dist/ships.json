@@ -71046,6 +71046,7 @@
       "code": "SN Ozornoy",
       "cn": "顽皮",
       "jp": "オゾルノイ",
+      "kr": "오조르노이",
       "tw": "頑皮"
     },
     "property_hexagon": [4, 1, 0, 3, 2, 1],
@@ -72114,6 +72115,7 @@
       "code": "SN Krasny Kavkaz",
       "cn": "红色山脉",
       "jp": "クラースヌィイ・カフカース",
+      "kr": "크라스늬 캅카스",
       "tw": "紅色高加索"
     },
     "property_hexagon": [1, 1, 0, 3, 2, 3],
@@ -72221,6 +72223,7 @@
       "code": "SN Bogatyr",
       "cn": "博加特里",
       "jp": "ボガトィーリ",
+      "kr": "바가티르",
       "tw": "博加特里"
     },
     "property_hexagon": [1, 1, 0, 2, 2, 3],
@@ -72568,6 +72571,7 @@
       "code": "SN Moskva",
       "cn": "莫斯科",
       "jp": "モスクワ",
+      "kr": "모스크바",
       "tw": "莫斯科"
     },
     "property_hexagon": [4, 0, 0, 3, 2, 5],
@@ -84597,6 +84601,112 @@
     },
     "stars": 6
   },
+  "970211": {
+    "id": 970211,
+    "code": 30058,
+    "name": {
+      "en": "Regensburg META",
+      "code": "Regensburg META",
+      "cn": "雷根斯堡·META",
+      "jp": "レーゲンスブルク(META)"
+    },
+    "property_hexagon": [3, 4, 0, 3, 3, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 97,
+    "data": {
+      "9702111": {
+        "id": 9702111,
+        "tags": ["RegensburgMETA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 630,
+          "fp": 35,
+          "trp": 60,
+          "aa": 70,
+          "av": 0,
+          "rld": 71,
+          "acc": 43,
+          "eva": 23,
+          "spd": 36,
+          "luk": 46,
+          "asw": 33
+        }
+      },
+      "9702112": {
+        "id": 9702112,
+        "tags": ["RegensburgMETA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 784,
+          "fp": 44,
+          "trp": 75,
+          "aa": 87,
+          "av": 0,
+          "rld": 71,
+          "acc": 43,
+          "eva": 23,
+          "spd": 36,
+          "luk": 46,
+          "asw": 41
+        }
+      },
+      "9702113": {
+        "id": 9702113,
+        "tags": ["RegensburgMETA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1091,
+          "fp": 61,
+          "trp": 105,
+          "aa": 121,
+          "av": 0,
+          "rld": 71,
+          "acc": 43,
+          "eva": 23,
+          "spd": 36,
+          "luk": 46,
+          "asw": 58
+        }
+      },
+      "9702114": {
+        "id": 9702114,
+        "tags": ["RegensburgMETA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1552,
+          "fp": 86,
+          "trp": 149,
+          "aa": 172,
+          "av": 0,
+          "rld": 71,
+          "acc": 43,
+          "eva": 23,
+          "spd": 36,
+          "luk": 46,
+          "asw": 83
+        }
+      }
+    },
+    "stars": 6
+  },
   "970301": {
     "id": 970301,
     "code": 30013,
@@ -87098,6 +87208,7 @@
       "code": "Gangut META",
       "cn": "甘古特·META",
       "jp": "ガングート(META)",
+      "kr": "강구트·META",
       "tw": "甘古特META"
     },
     "property_hexagon": [4, 0, 0, 1, 1, 3],
