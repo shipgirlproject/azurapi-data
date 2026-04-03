@@ -41992,7 +41992,13 @@
   "30228": {
     "id": 30228,
     "code": 732,
-    "name": {"en": "Kizu", "code": "IJN Kizu", "cn": "木津", "jp": "木津"},
+    "name": {
+      "en": "Kizu",
+      "code": "IJN Kizu",
+      "cn": "木津",
+      "jp": "木津",
+      "tw": "木津"
+    },
     "property_hexagon": [2, 3, 0, 3, 3, 2],
     "type": 2,
     "armor": 1,
@@ -42093,7 +42099,13 @@
   "30229": {
     "id": 30229,
     "code": 733,
-    "name": {"en": "Nayoro", "code": "IJN Nayoro", "cn": "名寄", "jp": "名寄"},
+    "name": {
+      "en": "Nayoro",
+      "code": "IJN Nayoro",
+      "cn": "名寄",
+      "jp": "名寄",
+      "tw": "名寄"
+    },
     "property_hexagon": [2, 3, 0, 3, 3, 2],
     "type": 2,
     "armor": 1,
@@ -49874,7 +49886,13 @@
   "30717": {
     "id": 30717,
     "code": 731,
-    "name": {"en": "Unryuu", "code": "IJN Unryuu", "cn": "云龙", "jp": "雲龍"},
+    "name": {
+      "en": "Unryuu",
+      "code": "IJN Unryuu",
+      "cn": "云龙",
+      "jp": "雲龍",
+      "tw": "雲龍"
+    },
     "property_hexagon": [0, 0, 5, 2, 3, 3],
     "type": 7,
     "armor": 2,
@@ -84911,7 +84929,8 @@
       "en": "Köln META",
       "code": "Köln META",
       "cn": "科隆·META",
-      "jp": "ケルン(META)"
+      "jp": "ケルン(META)",
+      "kr": "쾰른·META"
     },
     "property_hexagon": [2, 3, 0, 3, 3, 2],
     "type": 2,
