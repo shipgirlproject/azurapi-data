@@ -41997,6 +41997,7 @@
       "code": "IJN Kizu",
       "cn": "木津",
       "jp": "木津",
+      "kr": "키즈",
       "tw": "木津"
     },
     "property_hexagon": [2, 3, 0, 3, 3, 2],
@@ -42104,6 +42105,7 @@
       "code": "IJN Nayoro",
       "cn": "名寄",
       "jp": "名寄",
+      "kr": "나요로",
       "tw": "名寄"
     },
     "property_hexagon": [2, 3, 0, 3, 3, 2],
@@ -49891,6 +49893,7 @@
       "code": "IJN Unryuu",
       "cn": "云龙",
       "jp": "雲龍",
+      "kr": "운류",
       "tw": "雲龍"
     },
     "property_hexagon": [0, 0, 5, 2, 3, 3],
