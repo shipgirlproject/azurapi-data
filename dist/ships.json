@@ -93377,6 +93377,612 @@
     },
     "stars": 6
   },
+  "1060010": {
+    "id": 1060010,
+    "code": 10990,
+    "name": {"en": "Elise", "code": "Elise", "cn": "伊莉丝", "jp": "エリーゼ"},
+    "property_hexagon": [0, 0, 5, 3, 3, 4],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 106,
+    "data": {
+      "10600101": {
+        "id": 10600101,
+        "tags": ["DOAXVV", "Elise"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 70,
+        "stats": {
+          "hp": 1193,
+          "fp": 0,
+          "trp": 0,
+          "aa": 57,
+          "av": 76,
+          "rld": 47,
+          "acc": 33,
+          "eva": 11,
+          "spd": 28,
+          "luk": 94,
+          "asw": 0
+        }
+      },
+      "10600102": {
+        "id": 10600102,
+        "tags": ["DOAXVV", "Elise"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 80,
+        "stats": {
+          "hp": 1484,
+          "fp": 0,
+          "trp": 0,
+          "aa": 71,
+          "av": 95,
+          "rld": 47,
+          "acc": 33,
+          "eva": 11,
+          "spd": 28,
+          "luk": 94,
+          "asw": 0
+        }
+      },
+      "10600103": {
+        "id": 10600103,
+        "tags": ["DOAXVV", "Elise"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 2066,
+          "fp": 0,
+          "trp": 0,
+          "aa": 99,
+          "av": 132,
+          "rld": 47,
+          "acc": 33,
+          "eva": 11,
+          "spd": 28,
+          "luk": 94,
+          "asw": 0
+        }
+      },
+      "10600104": {
+        "id": 10600104,
+        "tags": ["DOAXVV", "Elise"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2939,
+          "fp": 0,
+          "trp": 0,
+          "aa": 141,
+          "av": 188,
+          "rld": 47,
+          "acc": 33,
+          "eva": 11,
+          "spd": 28,
+          "luk": 94,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1060011": {
+    "id": 1060011,
+    "code": 10991,
+    "name": {"en": "Shizuku", "code": "Shizuku", "cn": "雫", "jp": "しずく"},
+    "property_hexagon": [4, 0, 0, 1, 1, 4],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
+    "nationality": 106,
+    "data": {
+      "10600111": {
+        "id": 10600111,
+        "tags": ["DOAXVV"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 9,
+        "max_level": 70,
+        "stats": {
+          "hp": 1315,
+          "fp": 78,
+          "trp": 0,
+          "aa": 41,
+          "av": 0,
+          "rld": 51,
+          "acc": 22,
+          "eva": 4,
+          "spd": 20,
+          "luk": 86,
+          "asw": 0
+        }
+      },
+      "10600112": {
+        "id": 10600112,
+        "tags": ["DOAXVV"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 80,
+        "stats": {
+          "hp": 1636,
+          "fp": 97,
+          "trp": 0,
+          "aa": 51,
+          "av": 0,
+          "rld": 51,
+          "acc": 22,
+          "eva": 4,
+          "spd": 20,
+          "luk": 86,
+          "asw": 0
+        }
+      },
+      "10600113": {
+        "id": 10600113,
+        "tags": ["DOAXVV"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 90,
+        "stats": {
+          "hp": 2277,
+          "fp": 136,
+          "trp": 0,
+          "aa": 71,
+          "av": 0,
+          "rld": 51,
+          "acc": 22,
+          "eva": 4,
+          "spd": 20,
+          "luk": 86,
+          "asw": 0
+        }
+      },
+      "10600114": {
+        "id": 10600114,
+        "tags": ["DOAXVV"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3239,
+          "fp": 193,
+          "trp": 0,
+          "aa": 101,
+          "av": 0,
+          "rld": 51,
+          "acc": 22,
+          "eva": 4,
+          "spd": 20,
+          "luk": 86,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1060012": {
+    "id": 1060012,
+    "code": 10992,
+    "name": {"en": "Shandy", "code": "Shandy", "cn": "香迪", "jp": "シャンディ"},
+    "property_hexagon": [4, 2, 0, 2, 2, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [5], [6], [10], [10]],
+    "nationality": 106,
+    "data": {
+      "10600121": {
+        "id": 10600121,
+        "tags": ["DOAXVV", "Shandy"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 797,
+          "fp": 47,
+          "trp": 38,
+          "aa": 45,
+          "av": 0,
+          "rld": 66,
+          "acc": 49,
+          "eva": 18,
+          "spd": 28,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "10600122": {
+        "id": 10600122,
+        "tags": ["DOAXVV", "Shandy"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 991,
+          "fp": 59,
+          "trp": 47,
+          "aa": 56,
+          "av": 0,
+          "rld": 66,
+          "acc": 49,
+          "eva": 18,
+          "spd": 28,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "10600123": {
+        "id": 10600123,
+        "tags": ["DOAXVV", "Shandy"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1380,
+          "fp": 82,
+          "trp": 66,
+          "aa": 78,
+          "av": 0,
+          "rld": 66,
+          "acc": 49,
+          "eva": 18,
+          "spd": 28,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "10600124": {
+        "id": 10600124,
+        "tags": ["DOAXVV", "Shandy"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1964,
+          "fp": 116,
+          "trp": 94,
+          "aa": 111,
+          "av": 0,
+          "rld": 66,
+          "acc": 49,
+          "eva": 18,
+          "spd": 28,
+          "luk": 85,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1060013": {
+    "id": 1060013,
+    "code": 10993,
+    "name": {"en": "Tsukushi", "code": "Tsukushi", "cn": "筑紫", "jp": "つくし"},
+    "property_hexagon": [2, 4, 0, 4, 1, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 106,
+    "data": {
+      "10600131": {
+        "id": 10600131,
+        "tags": ["DOAXVV"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 329,
+          "fp": 18,
+          "trp": 101,
+          "aa": 33,
+          "av": 0,
+          "rld": 80,
+          "acc": 69,
+          "eva": 71,
+          "spd": 42.6,
+          "luk": 89,
+          "asw": 51
+        }
+      },
+      "10600132": {
+        "id": 10600132,
+        "tags": ["DOAXVV"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 409,
+          "fp": 22,
+          "trp": 126,
+          "aa": 41,
+          "av": 0,
+          "rld": 80,
+          "acc": 69,
+          "eva": 71,
+          "spd": 42.6,
+          "luk": 89,
+          "asw": 64
+        }
+      },
+      "10600133": {
+        "id": 10600133,
+        "tags": ["DOAXVV"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 570,
+          "fp": 31,
+          "trp": 176,
+          "aa": 57,
+          "av": 0,
+          "rld": 80,
+          "acc": 69,
+          "eva": 71,
+          "spd": 42.6,
+          "luk": 89,
+          "asw": 89
+        }
+      },
+      "10600134": {
+        "id": 10600134,
+        "tags": ["DOAXVV"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 811,
+          "fp": 44,
+          "trp": 251,
+          "aa": 81,
+          "av": 0,
+          "rld": 80,
+          "acc": 69,
+          "eva": 71,
+          "spd": 42.6,
+          "luk": 89,
+          "asw": 126
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1060014": {
+    "id": 1060014,
+    "code": 10994,
+    "name": {"en": "Patty", "code": "Patty", "cn": "派蒂", "jp": "パティ"},
+    "property_hexagon": [1, 5, 0, 1, 0, 1],
+    "type": 8,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
+    "nationality": 106,
+    "data": {
+      "10600141": {
+        "id": 10600141,
+        "tags": ["DOAXVV"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 276,
+          "fp": 11,
+          "trp": 107,
+          "aa": 0,
+          "av": 0,
+          "rld": 38,
+          "acc": 71,
+          "eva": 11,
+          "spd": 28,
+          "luk": 86,
+          "asw": 0
+        }
+      },
+      "10600142": {
+        "id": 10600142,
+        "tags": ["DOAXVV"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 343,
+          "fp": 14,
+          "trp": 133,
+          "aa": 0,
+          "av": 0,
+          "rld": 38,
+          "acc": 71,
+          "eva": 11,
+          "spd": 28,
+          "luk": 86,
+          "asw": 0
+        }
+      },
+      "10600143": {
+        "id": 10600143,
+        "tags": ["DOAXVV"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 478,
+          "fp": 19,
+          "trp": 186,
+          "aa": 0,
+          "av": 0,
+          "rld": 38,
+          "acc": 71,
+          "eva": 11,
+          "spd": 28,
+          "luk": 86,
+          "asw": 0
+        }
+      },
+      "10600144": {
+        "id": 10600144,
+        "tags": ["DOAXVV"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 680,
+          "fp": 28,
+          "trp": 265,
+          "aa": 0,
+          "av": 0,
+          "rld": 38,
+          "acc": 71,
+          "eva": 11,
+          "spd": 28,
+          "luk": 86,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1060015": {
+    "id": 1060015,
+    "code": 10995,
+    "name": {"en": "Yukino", "code": "Yukino", "cn": "千乃", "jp": "ゆきの"},
+    "property_hexagon": [3, 0, 0, 3, 3, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [1], [6], [10, 14], [10, 14]],
+    "nationality": 106,
+    "data": {
+      "10600151": {
+        "id": 10600151,
+        "tags": ["DOAXVV", "YKNE1", "YKNE2", "YKNE3"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 677,
+          "fp": 32,
+          "trp": 0,
+          "aa": 72,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 30,
+          "spd": 35,
+          "luk": 87,
+          "asw": 36
+        }
+      },
+      "10600152": {
+        "id": 10600152,
+        "tags": ["DOAXVV", "YKNE1", "YKNE2", "YKNE3"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 842,
+          "fp": 40,
+          "trp": 0,
+          "aa": 90,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 30,
+          "spd": 35,
+          "luk": 87,
+          "asw": 45
+        }
+      },
+      "10600153": {
+        "id": 10600153,
+        "tags": ["DOAXVV", "YKNE1", "YKNE2", "YKNE3"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1172,
+          "fp": 56,
+          "trp": 0,
+          "aa": 125,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 30,
+          "spd": 35,
+          "luk": 87,
+          "asw": 62
+        }
+      },
+      "10600154": {
+        "id": 10600154,
+        "tags": ["DOAXVV", "YKNE1", "YKNE2", "YKNE3"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1667,
+          "fp": 80,
+          "trp": 0,
+          "aa": 178,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 30,
+          "spd": 35,
+          "luk": 87,
+          "asw": 89
+        }
+      }
+    },
+    "stars": 6
+  },
   "1070001": {
     "id": 1070001,
     "code": 10071,
