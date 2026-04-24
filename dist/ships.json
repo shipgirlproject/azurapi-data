@@ -37,6 +37,70 @@
           "asw": 20
         }
       },
+      "900235": {
+        "id": 900235,
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 0,
+        "max_level": 100,
+        "stats": {
+          "hp": 175643,
+          "fp": 50,
+          "trp": 45,
+          "aa": 133,
+          "av": 0,
+          "rld": 64,
+          "acc": 46,
+          "eva": 10,
+          "spd": 28.4,
+          "luk": 65,
+          "asw": 0
+        }
+      },
+      "900310": {
+        "id": 900310,
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 0,
+        "max_level": 100,
+        "stats": {
+          "hp": 175643,
+          "fp": 50,
+          "trp": 45,
+          "aa": 133,
+          "av": 0,
+          "rld": 64,
+          "acc": 46,
+          "eva": 10,
+          "spd": 28.4,
+          "luk": 65,
+          "asw": 0
+        }
+      },
+      "900312": {
+        "id": 900312,
+        "tags": ["Universal-Bulin"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 0,
+        "max_level": 100,
+        "stats": {
+          "hp": 175643,
+          "fp": 50,
+          "trp": 45,
+          "aa": 133,
+          "av": 0,
+          "rld": 64,
+          "acc": 46,
+          "eva": 10,
+          "spd": 28.4,
+          "luk": 65,
+          "asw": 0
+        }
+      },
       "900375": {
         "id": 900375,
         "type": 1,
@@ -121,6 +185,51 @@
           "asw": 20
         }
       },
+      "900311": {
+        "id": 900311,
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 0,
+        "max_level": 100,
+        "stats": {
+          "hp": 175643,
+          "fp": 50,
+          "trp": 45,
+          "aa": 133,
+          "av": 0,
+          "rld": 64,
+          "acc": 46,
+          "eva": 10,
+          "spd": 28.4,
+          "luk": 65,
+          "asw": 0
+        },
+        "name": {"en": "Trial Bulin MKII"}
+      },
+      "900324": {
+        "id": 900324,
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 0,
+        "max_level": 100,
+        "stats": {
+          "hp": 175643,
+          "fp": 50,
+          "trp": 45,
+          "aa": 133,
+          "av": 0,
+          "rld": 64,
+          "acc": 46,
+          "eva": 10,
+          "spd": 28.4,
+          "luk": 65,
+          "asw": 0
+        },
+        "slots": [[1], [6], [9], [10, 14], [10, 14]],
+        "name": {"en": "Trial Bulin MKII"}
+      },
       "900376": {
         "id": 900376,
         "type": 1,
@@ -203,6 +312,28 @@
           "spd": 35,
           "luk": 100,
           "asw": 20
+        }
+      },
+      "900314": {
+        "id": 900314,
+        "tags": ["Trial-Bulin-MKII"],
+        "type": 1,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 3,
+        "max_level": 100,
+        "stats": {
+          "hp": 175643,
+          "fp": 50,
+          "trp": 45,
+          "aa": 133,
+          "av": 0,
+          "rld": 64,
+          "acc": 46,
+          "eva": 10,
+          "spd": 28.4,
+          "luk": 65,
+          "asw": 0
         }
       },
       "900377": {
