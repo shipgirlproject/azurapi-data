@@ -93511,7 +93511,14 @@
   "1060010": {
     "id": 1060010,
     "code": 10990,
-    "name": {"en": "Elise", "code": "Elise", "cn": "伊莉丝", "jp": "エリーゼ"},
+    "name": {
+      "en": "Elise",
+      "code": "Elise",
+      "cn": "伊莉丝",
+      "jp": "エリーゼ",
+      "kr": "엘리제",
+      "tw": "伊莉絲"
+    },
     "property_hexagon": [0, 0, 5, 3, 3, 4],
     "type": 7,
     "armor": 2,
@@ -93612,7 +93619,14 @@
   "1060011": {
     "id": 1060011,
     "code": 10991,
-    "name": {"en": "Shizuku", "code": "Shizuku", "cn": "雫", "jp": "しずく"},
+    "name": {
+      "en": "Shizuku",
+      "code": "Shizuku",
+      "cn": "雫",
+      "jp": "しずく",
+      "kr": "시즈쿠",
+      "tw": "雫"
+    },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
@@ -93713,7 +93727,14 @@
   "1060012": {
     "id": 1060012,
     "code": 10992,
-    "name": {"en": "Shandy", "code": "Shandy", "cn": "香迪", "jp": "シャンディ"},
+    "name": {
+      "en": "Shandy",
+      "code": "Shandy",
+      "cn": "香迪",
+      "jp": "シャンディ",
+      "kr": "샌디",
+      "tw": "香蒂"
+    },
     "property_hexagon": [4, 2, 0, 2, 2, 4],
     "type": 3,
     "armor": 2,
@@ -93814,7 +93835,14 @@
   "1060013": {
     "id": 1060013,
     "code": 10993,
-    "name": {"en": "Tsukushi", "code": "Tsukushi", "cn": "筑紫", "jp": "つくし"},
+    "name": {
+      "en": "Tsukushi",
+      "code": "Tsukushi",
+      "cn": "筑紫",
+      "jp": "つくし",
+      "kr": "츠쿠시",
+      "tw": "筑紫"
+    },
     "property_hexagon": [2, 4, 0, 4, 1, 1],
     "type": 1,
     "armor": 1,
@@ -93915,7 +93943,14 @@
   "1060014": {
     "id": 1060014,
     "code": 10994,
-    "name": {"en": "Patty", "code": "Patty", "cn": "派蒂", "jp": "パティ"},
+    "name": {
+      "en": "Patty",
+      "code": "Patty",
+      "cn": "派蒂",
+      "jp": "パティ",
+      "kr": "패티",
+      "tw": "派蒂"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
     "armor": 1,
@@ -94016,7 +94051,14 @@
   "1060015": {
     "id": 1060015,
     "code": 10995,
-    "name": {"en": "Yukino", "code": "Yukino", "cn": "千乃", "jp": "ゆきの"},
+    "name": {
+      "en": "Yukino",
+      "code": "Yukino",
+      "cn": "千乃",
+      "jp": "ゆきの",
+      "kr": "유키노",
+      "tw": "千乃"
+    },
     "property_hexagon": [3, 0, 0, 3, 3, 3],
     "type": 2,
     "armor": 1,
